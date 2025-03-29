@@ -1,0 +1,7 @@
+os
+tempfile
+gradio
+openai
+gtts
+pydub
+huggingface-hub
